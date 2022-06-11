@@ -21,6 +21,10 @@ IV. Solusi
 
 V. Flowchart
 
+Berikut merupakan link akses google drive flowchart :
+
+https://drive.google.com/drive/u/0/folders/19gAp2Scc4RgXs-3SUBAY7TzYKTUdW1s6
+
 VI. Panduan Penggunaan Aplikasi
 
 VII. Demo
