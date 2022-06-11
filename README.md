@@ -31,6 +31,16 @@ VI. Panduan Penggunaan Aplikasi
 
 - Saat user memilih pilihan <1> yaitu menu input, user harus melengkapi beberapa data yaitu tanggal pengiriman, jenis pengiriman, jenis barang yang dikirim, asal pengiriman, tujuan pengiriman, dan status pengiriman. Pada tanggal pengiriman format yang diinputkan  harus (YYYY-MM-DD), jika tidak sistem akan terus meminta user untuk menginputkan data sesuai format. Demikian juga dengan jenis pengiriman, user hanya diberikan tiga pilihan (darat, laut, udara) untuk dapat dipilih. Jika user memasukan data diluar dari tiga pilihan tersebut, sistem akan terus meminta user untuk memasukan data sesuai pilihan yang diberikan. Pada asal pengiriman dan tujuan pengiriman user melengkapi kedua data dan bisa disesuaikan dengan keadaan karna tidak memerlukan kodisi khusus atau pilihan. Pada status pilihan user diberikan dua pilihan (Sudah/Tidak) dimana user hanya dapat memilih salah satu kondisi di antara kedua pilihan tersebut. Jika user menginputkan data diluar pilihan tersebut, sistem akan terus meminta user untuk menginputkan data sesuai dengan pilihan yang diberikan.
 
+- Saat user memilih pilihan <2> yaitu Read Data Barang, sistem akan menampilkan data yang tersimpan pada sistem.
+
+- Saat user memilih pilihan <3> yaitu Update Data Barang, sistem akan menampilkan data yang sudah tersimpan sebelumnya. Sistem menu ketiga sama dengan menu nomor 1, apabila user memasukkan input yang tidak sesuai, maka program akan terus meminta input yang sesuai, apabila kondisi telah terpenuhi, maka sistem akan menampilkan pesan “Data Barang Baru Berhasil Dibuat”
+
+- Saat user memilih pilihan <4> yaitu Delete Data Barang, sistem akan menampilkan data yang sudah tersimpan sebelumnya. User diminta untuk mengisi ID Pengiriman, kemudian user memilih data yang akan dihapus dari tabel. Ketika user telah menginputkan data yang dihapus dengan sesuai, system akan menampilkan “Data Barang Berhasil Dihapus!”. Data akan dihapus berdasarkan ID pengiriman yang dimasukkan.
+
+- Saat user memilih pilihan <5> yaitu Cari Data Barang, user menginputkan keyword seperti angka atau kata yang kemudian sistem akan mencari data sesuai keyword yang sesuai dengan input user.
+
+- Saat user memilih pilihan <0> yaitu Keluar, sistem akan memberhentikan aplikasi console.
+
 VII. Demo
 
 https://drive.google.com/drive/u/0/folders/197nsN_bXnJdPaCK3KVk3qq23oGMPiJek
