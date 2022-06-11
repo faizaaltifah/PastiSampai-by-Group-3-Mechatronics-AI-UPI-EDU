@@ -26,3 +26,5 @@ VI. Panduan Penggunaan Aplikasi
 VII. Demo
 
 VIII. Referensi
+
+- https://pypi.org/project/prettytable/
