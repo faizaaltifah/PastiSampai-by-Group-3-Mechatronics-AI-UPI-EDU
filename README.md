@@ -13,7 +13,11 @@ II. PastiSampai
 
 III. Latar Belakang
 
+  Untuk memudahkan pengaksesan data dalam sebuah perusahan logistik, diperlukan manajemen basis data yang baik. Database management system digunakan untuk mengakses satu data dengan data yang lain. Selain untuk melihat data, database management system juga akan memudahkan apabila pengguna ingin menambahkan, menghapus, hingga membuat data baru. 
+
 IV. Solusi
+
+  Berdasarkan latar belakang
 
 V. Flowchart
 
