@@ -27,6 +27,10 @@ https://drive.google.com/drive/u/0/folders/19gAp2Scc4RgXs-3SUBAY7TzYKTUdW1s6
 
 VI. Panduan Penggunaan Aplikasi
 
+- Pada tampilan awal, User akan diberikan 5 pilihan. Dimana pada setiap pilihan user akan diarahkan untuk melengkapi data sesuai dengan perintah atau pertanyaan yang diberikan.
+
+- Saat user memilih pilihan <1> yaitu menu input, user harus melengkapi beberapa data yaitu tanggal pengiriman, jenis pengiriman, jenis barang yang dikirim, asal pengiriman, tujuan pengiriman, dan status pengiriman. Pada tanggal pengiriman format yang diinputkan  harus (YYYY-MM-DD), jika tidak sistem akan terus meminta user untuk menginputkan data sesuai format. Demikian juga dengan jenis pengiriman, user hanya diberikan tiga pilihan (darat, laut, udara) untuk dapat dipilih. Jika user memasukan data diluar dari tiga pilihan tersebut, sistem akan terus meminta user untuk memasukan data sesuai pilihan yang diberikan. Pada asal pengiriman dan tujuan pengiriman user melengkapi kedua data dan bisa disesuaikan dengan keadaan karna tidak memerlukan kodisi khusus atau pilihan. Pada status pilihan user diberikan dua pilihan (Sudah/Tidak) dimana user hanya dapat memilih salah satu kondisi di antara kedua pilihan tersebut. Jika user menginputkan data diluar pilihan tersebut, sistem akan terus meminta user untuk menginputkan data sesuai dengan pilihan yang diberikan.
+
 VII. Demo
 
 https://drive.google.com/drive/u/0/folders/197nsN_bXnJdPaCK3KVk3qq23oGMPiJek
