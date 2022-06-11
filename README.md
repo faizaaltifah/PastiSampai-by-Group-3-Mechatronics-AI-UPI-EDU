@@ -28,3 +28,5 @@ VII. Demo
 VIII. Referensi
 
 - https://pypi.org/project/prettytable/
+- https://wwww.javatpoint.com/prettytable-in-python
+- https://www.petanikode.com/tutorial-php-mysql/
