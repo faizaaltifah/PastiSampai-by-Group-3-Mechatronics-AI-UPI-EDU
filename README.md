@@ -17,7 +17,7 @@ III. Latar Belakang
 
 IV. Solusi
 
-  Berdasarkan latar belakang
+  Berdasarkan latar belakang yang ada, kami membuat aplikasi CRUD (Create, Read, Update, Delete) berbasis ... dimana CRUD ini akan memudahkan pengguna untuk dapat mengetahui status pengiriman hanya dengan mengakses id pengiriman. Selain itu, pengguna dapat menambahkan dan menghapus data melalui aplikasi CRUD ini. 
 
 V. Flowchart
 
